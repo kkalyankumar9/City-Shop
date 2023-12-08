@@ -1,4 +1,4 @@
-# Shop-now
+# City Shop
 
 Shop-now is a full-stack web application that provides a platform for E-commerce, allowing users to discover and purchase fashionable clothing items.
 
